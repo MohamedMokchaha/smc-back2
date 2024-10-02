@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af0595ba-dec6-418e-81ee-b48a227e1de8" name="Changes" comment="fdfd" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2mehhBVIzgFFttA4ruZPuaEf0yC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/smc_backend" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MSI\PycharmProjects\smc_backend\smc_backend" />
+      <recent name="C:\Users\MSI\PycharmProjects\smc_backend\demandes" />
+      <recent name="C:\Users\MSI\PycharmProjects\smc_backend\static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="smc_backend" type="Python.DjangoServer" factoryName="Django server">
+      <module name="smc_backend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af0595ba-dec6-418e-81ee-b48a227e1de8" name="Changes" comment="" />
+      <created>1727443066190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727443066190</updated>
+      <workItem from="1727443145881" duration="3877000" />
+      <workItem from="1727688253640" duration="657000" />
+      <workItem from="1727696599684" duration="45000" />
+      <workItem from="1727696672122" duration="1630000" />
+      <workItem from="1727711293036" duration="1058000" />
+      <workItem from="1727775781429" duration="1857000" />
+      <workItem from="1727787959801" duration="267000" />
+      <workItem from="1727788249404" duration="1854000" />
+      <workItem from="1727790175531" duration="3317000" />
+      <workItem from="1727796952445" duration="1912000" />
+      <workItem from="1727862075668" duration="2361000" />
+      <workItem from="1727865739977" duration="29000" />
+      <workItem from="1727865805332" duration="2981000" />
+      <workItem from="1727877879115" duration="2544000" />
+      <workItem from="1727881800410" duration="217000" />
+      <workItem from="1727882369687" duration="78000" />
+      <workItem from="1727882484002" duration="1162000" />
+      <workItem from="1727883679134" duration="115000" />
+    </task>
+    <task id="LOCAL-00001" summary="final">
+      <created>1727702190392</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727702190392</updated>
+    </task>
+    <task id="LOCAL-00002" summary="final">
+      <created>1727711758872</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727711758872</updated>
+    </task>
+    <task id="LOCAL-00003" summary="final">
+      <created>1727789017923</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727789017923</updated>
+    </task>
+    <task id="LOCAL-00004" summary="final">
+      <created>1727789268536</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727789268536</updated>
+    </task>
+    <task id="LOCAL-00005" summary="final">
+      <created>1727791025929</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727791025929</updated>
+    </task>
+    <task id="LOCAL-00006" summary="final">
+      <created>1727791578281</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727791578281</updated>
+    </task>
+    <task id="LOCAL-00007" summary="final">
+      <created>1727791621374</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727791621374</updated>
+    </task>
+    <task id="LOCAL-00008" summary="final">
+      <created>1727792101557</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727792101557</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fdfd">
+      <created>1727792858297</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727792858297</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fdfd">
+      <created>1727797031311</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727797031311</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fdfd">
+      <created>1727797316055</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1727797316055</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fdfd">
+      <created>1727797452106</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1727797452106</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fdfd">
+      <created>1727797824076</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1727797824076</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fdfd">
+      <created>1727866345290</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1727866345290</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fdfd">
+      <created>1727881189719</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1727881189719</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="final" />
+    <MESSAGE value="fdfd" />
+    <option name="LAST_COMMIT_MESSAGE" value="fdfd" />
+  </component>
+</project>
